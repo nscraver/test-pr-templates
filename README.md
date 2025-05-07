@@ -1,3 +1,3 @@
 # test-pr-templates
 
-test this
+THIS IS LIFE!!
